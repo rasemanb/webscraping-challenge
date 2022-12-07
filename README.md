@@ -1,6 +1,7 @@
 # webscraping-challenge
 
 **Background**
+
 You’re now ready to take on the full web-scraping and data analysis project
 for the mission to Mars. You’ve learned to identify HTML elements on a
 page, identify their id and class attributes, and use this knowledge to
@@ -15,6 +16,7 @@ organizing and storing data, analyzing data, and then visually
 communicating your insights.
 
 **Tasks**
+
 For this assignment, we were tasked with creating 2 different deliverables
 by scraping two different websites.
 
@@ -23,7 +25,9 @@ website with information on Mars.
 
 Our second deliverable required us to scrape and analyze Mars' weather data
 and export the cleaned data into a csv.
+
     **Questions to answer**
+
     1. How many months exist on Mars?
     2. How many Martian (and not Earth) days worth of data exist in the
     scraped dataset?
